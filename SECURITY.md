@@ -2,6 +2,8 @@
 
 ## 🚨 Reporting a Vulnerability
 
+SAFE THE WORLD AT ALL COST!!!
+
 We take the security of our project seriously and appreciate your help in identifying and addressing potential security issues.
 
 ### Responsible Disclosure Process
