@@ -20,6 +20,8 @@
 
 ## Overview
 
+SAFE THE WORLD AT ALL COST! 
+
 c15t is a headless consent engine that transforms privacy management from a compliance checkbox into a fully observable system. Built for modern development teams, it provides a flexible, performant solution for managing user consent across web applications.
 
 ## 📦 Packages
